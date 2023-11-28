@@ -1,0 +1,55 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"Yousaf",
+            "email":"yousaf@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"Python",
+            "resume":"resume1.pdf"
+        },
+        {
+            "id":"2",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"Python",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"3",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"Python",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"4",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"Python",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"5",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"Python",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"6",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"Python",
+            "resume":"resume3.pdf"
+        }
+        
+
+    ]
+    
+}

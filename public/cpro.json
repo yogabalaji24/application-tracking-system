@@ -1,0 +1,63 @@
+{
+    "users":[
+        {
+            "id":"1",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"2",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"3",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"4",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"5",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"6",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        },
+        {
+            "id":"7",
+            "name":"John",
+            "email":"johndoe@gmail.com",
+            "mobile":"9758675432",
+            "primaryskill":"C Programming",
+            "resume":"resume3.pdf"
+        }
+
+
+    ]
+    
+}
